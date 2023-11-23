@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fUeIpg07tAL55b69CARpgaf/rbn0yP2HLxreJejtfnM/8r2KZLBY8ZhMhgkD7BIGpBWu9LW/Q7+F1gu4wN+NbA==",
+  "dgSpecHash": "ewandVMb0BUeIii+fgLB5Qc3PLYPN3D/6T2DukYHRoK5KAu6mOCZ6uJdoZCBjoObj2UovDEnC4h8eUi9k6fVAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\verda\\OneDrive\\Área de Trabalho\\redesocial grupo zap\\rede-social-devs\\Server\\RedeSocial.API\\RedeSocial.API.csproj",
+  "projectFilePath": "C:\\Users\\verda\\OneDrive\\Área de Trabalho\\redesocial grupo zap\\RedeSocial\\Server\\RedeSocial.API\\RedeSocial.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\verda\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\verda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

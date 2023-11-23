@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\verda\\OneDrive\\Área de Trabalho\\redesocial grupo zap\\rede-social-devs\\Server\\RedeSocial.API\\RedeSocial.API.csproj",
+      "projectUniqueName": "C:\\Users\\verda\\OneDrive\\Área de Trabalho\\redesocial grupo zap\\RedeSocial\\Server\\RedeSocial.API\\RedeSocial.API.csproj",
       "projectName": "RedeSocial.API",
-      "projectPath": "C:\\Users\\verda\\OneDrive\\Área de Trabalho\\redesocial grupo zap\\rede-social-devs\\Server\\RedeSocial.API\\RedeSocial.API.csproj",
+      "projectPath": "C:\\Users\\verda\\OneDrive\\Área de Trabalho\\redesocial grupo zap\\RedeSocial\\Server\\RedeSocial.API\\RedeSocial.API.csproj",
       "packagesPath": "C:\\Users\\verda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\verda\\OneDrive\\Área de Trabalho\\redesocial grupo zap\\rede-social-devs\\Server\\RedeSocial.API\\obj\\",
+      "outputPath": "C:\\Users\\verda\\OneDrive\\Área de Trabalho\\redesocial grupo zap\\RedeSocial\\Server\\RedeSocial.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\verda\\AppData\\Roaming\\NuGet\\NuGet.Config",

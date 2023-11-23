@@ -1,0 +1,20 @@
+header{
+    background-color: black;
+}
+.navigationHeader{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    padding: 10px 30px;
+}
+
+.lista-link{
+    display: flex;
+    gap: 40px;
+}
+
+.header-link{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
